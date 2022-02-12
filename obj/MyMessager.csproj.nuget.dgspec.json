@@ -32,9 +32,7 @@
           "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Users\\Vladislav_Pakhomov\\Downloads": {},
-          "\\\\epruryaw0333.moscow.epam.com\\Builds\\Citibank_NuGet": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://artifactory.epam.com/artifactory/api/nuget/v3/CITB-SUPP-PACKAGES": {},
           "https://nuget.devexpress.com/z43x9sgWEIJBVPL4HK8qtw9cDLwelabvfKyLigE9ZmMkKhiQLG/api": {}
         },
         "frameworks": {
@@ -52,6 +50,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "THVfkOxReOdyI4p75+gYS7RKKd2T937ZxmTj4M/RGzE6JLVlr4NKZ1JcXQ3vt+7Y25xGZ1c57UDf+33ngU0PJw==",
+  "dgSpecHash": "TdZJke3rasMeg+y1cA7SffqZ1mmHzSLkK9CsxZV7seVGvimxWF3GPbvEsOJ81mnxv2TqbCxK2LCjbwn0N9NGJQ==",
   "success": true,
   "projectFilePath": "D:\\myRepository\\Messager\\MyMessager\\ConsoleClient\\MyMessager.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladislav_Pakhomov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

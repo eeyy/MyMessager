@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 
 namespace MyMessager
 {
@@ -7,7 +8,10 @@ namespace MyMessager
         static void Main(string[] args)
         {
             Message msg = new Message();
-            Console.WriteLine(msg);
+            string output = JsonConvert.SerializeObject(msg);
+            Console.WriteLine(output);
+            Message deserializedMessage = JsonConvert.DeserializeObject<Message>(output);
+            Console.WriteLine(deserializedMessage);
         }
     }
 }

@@ -14,3 +14,5 @@ D:\myRepository\Messager\MyMessager\ConsoleClient\obj\Debug\net5.0\MyMessager.dl
 D:\myRepository\Messager\MyMessager\ConsoleClient\obj\Debug\net5.0\ref\MyMessager.dll
 D:\myRepository\Messager\MyMessager\ConsoleClient\obj\Debug\net5.0\MyMessager.pdb
 D:\myRepository\Messager\MyMessager\ConsoleClient\obj\Debug\net5.0\MyMessager.genruntimeconfig.cache
+D:\myRepository\Messager\MyMessager\ConsoleClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\myRepository\Messager\MyMessager\ConsoleClient\obj\Debug\net5.0\MyMessager.csproj.CopyComplete
